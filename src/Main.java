@@ -4,6 +4,8 @@ import java.util.LinkedList;
 public class Main {
 
     public static void main(String[] args) {
+        //Временно, для теста github'а
+        System.out.println("Тест GitHub-интеграции.");
         //Инициализация входных параметров:
         Folder folder=new Folder("/mnt/WinData/Temp/FolderContentTask");
         String filename ="testfile";
